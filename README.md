@@ -6,12 +6,12 @@ Encrypter is a simple Python GUI application that encrypts and decrypts files (i
 
 ## Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
+- [Features](#features-)
+- [Requirements](#requirements-)
+- [Installation](#installation-)
 - [Usage](#usage-)
-- [How It Works](#how-it-works)
-- [Customization](#customization)
+- [How It Works](#how-it-works-)
+- [Customization](#customization-)
 
 ---
 
