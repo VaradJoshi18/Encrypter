@@ -9,7 +9,7 @@ Encrypter is a simple Python GUI application that encrypts and decrypts files (i
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Usage](#usage-)
 - [How It Works](#how-it-works)
 - [Customization](#customization)
 
