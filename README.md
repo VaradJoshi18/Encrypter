@@ -1,6 +1,6 @@
 # 🔒 Encrypter / Decrypter
 
-Encrypter is a simple Python GUI application that encrypts and decrypts files (images, PDFs, etc.) using an XOR-based algorithm. Built with Tkinter, it offers an easy-to-use interface where users input a key, select a file, and instantly encrypt or decrypt it. Whether you're looking to secure sensitive images or simply learn about basic encryption techniques, Encrypter is for you!
+Encrypter is a simple Python GUI application that encrypts and decrypts files (images, PDFs, etc.) using an XOR-based algorithm. Built with Tkinter, it offers an easy-to-use interface where users input a key, select a file, and instantly encrypt or decrypt it. Whether you're looking to secure sensitive images or simply learn about basic encryption techniques, Encrypter is for you! 
 
 ---
 
